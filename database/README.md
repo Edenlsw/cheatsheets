@@ -7,8 +7,8 @@ SQL only talks to relational database
 
 </br>
 </br>
-</br>
 
+##  WHAT IS A DATBASE
 
   <li>
     Databases are storage shelves for the digital world. 
