@@ -1,17 +1,24 @@
-#GIT BRANCHING CHEATSHEET
+# GIT BRANCHING CHEATSHEET
 
-###Create new branch
+### Create new branch
 <li>
-- git checkout -b newbranchname
-</li>
-<br>
-###Switch branches
-<li>
- git switch thebranchname
+git checkout -b newbranchname
 </li>
 
 
-###Push branch to rep
+### Switch branches
 <li>
-- git push --all -u
+git switch thebranchname
+</li>
+
+
+### Push branch from local to rep
+<li>
+git push --all -u
+</li>
+
+
+### Pulling branches from github
+<li>
+git pull --all
 </li>
